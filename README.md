@@ -1,0 +1,2 @@
+# Webhook-Tool
+Hey everyone ! it's been a long time x) today I started this brand new project, WebOp! WebOp is a tool that allows you to have information about a webhook and then delete it if you wish. I made this tool for those who want to have fun deobfuscating a grabber and having fun with the webhook [ like me before x) ] Soon, I will work on the options Webhook Spam, Webhook Changer (Profile Picture / username/) See you soon!
